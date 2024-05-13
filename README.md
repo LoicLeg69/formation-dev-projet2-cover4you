@@ -1,5 +1,9 @@
 # cover_4_you
 
+Second group project at WCS : Cover 4 You
+Here is the link to the full project
+https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P2-cover_4_you
+
 This project uses Harmonia. Harmonia is a framework meant to serve as a foundation for every project following the React-Express-MySQL stack, as learned in Wild Code School.
 It's pre-configured with a set of tools which'll help students produce industry-quality and easier-to-maintain code, while staying a pedagogical tool.
 
