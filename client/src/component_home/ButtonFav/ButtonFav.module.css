@@ -1,0 +1,15 @@
+.icon {
+  cursor: pointer;
+  user-select: none;
+}
+
+.isFavorite {
+  color: orange;
+}
+
+.customToast {
+  color: #fefae0;
+  background-color: #4a1b20;
+  --toastify-color-progress-success: #fefae0;
+  --toastify-icon-color-success: #fefae0;
+}
